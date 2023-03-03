@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // determining our account information
+        // determining our account information.
       String loginName = "Coochie Coo";
       String loginPassword = "Wxct45.4@g";
       // asking user to give us inputs
